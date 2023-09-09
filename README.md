@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @melissabsouza
 - 👀 I’m interested in java, python and html!
 - 🌱 I’m currently at college
-- 📫 How to reach me: [Linkedin](.com/in/melissabsouza/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/melissabsouza/)
 
 <!---
 melissabsouza/melissabsouza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
