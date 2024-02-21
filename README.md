@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @melissabsouza
-- 👀 I’m interested in java, python and html!
 - 🌱 I’m currently at college and using github as my archive for classes!
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/melissabsouza/)
 
