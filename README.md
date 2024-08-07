@@ -1,6 +1,5 @@
 <h2 align="left">Hi 👋! My name is Melissa and I'm a Fullstack Dev from Brazil!</h2>
 
-- 🌱 I’m currently learning **react, excel, java, python, sql**
 
 - 📫 How to reach me **melissabarbosasouza@gmail.com**
 
